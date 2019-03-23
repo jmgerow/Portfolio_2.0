@@ -13,6 +13,11 @@ describe('App', () => {
   it('displays navbar component', () => {
     expect(app.find('Navbar').exists()).toBe(true);
   });
+
+  it('displays footer component', () => {
+    expect(app.find('Footer').exists()).toBe(true);
+  });
+
 });
 
 
