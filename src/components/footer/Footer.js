@@ -1,17 +1,8 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 
 import './Footer.css';
 
 class Footer extends Component {
-    constructor() {
-        super();
-
-        this.state = {
-            copy: "&copy 2019"
-        }
-    }
-
     render() {
         return (
             <footer className="page-footer blue-grey">

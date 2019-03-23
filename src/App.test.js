@@ -18,6 +18,10 @@ describe('App', () => {
     expect(app.find('Footer').exists()).toBe(true);
   });
 
+  // it('renders home component', () => {
+  //   expect(app.find('Home').exists()).toBe(true);
+  // });
+
 });
 
 
