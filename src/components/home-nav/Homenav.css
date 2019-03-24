@@ -1,0 +1,14 @@
+.home-nav-item {
+    text-decoration: none;
+    color: #546e7a;
+    transition: transform .2s;
+} 
+
+.home-nav-item:hover {
+    transform: scale(1.1);
+}
+
+.home-nav-icon {
+    text-decoration: none;
+    color: #546e7a;
+} 

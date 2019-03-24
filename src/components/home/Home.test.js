@@ -9,7 +9,7 @@ describe('Home', () => {
       expect(home).toMatchSnapshot();
     });
  
-    // it('displays name', () => {
-    //   expect(navbar.state().title).toEqual("Justin Gerow")
-    // });
+    it('renders homenav on homepage', () => {
+        expect(home.find('Homenav').exists()).toBe(true);
+    });
   });
