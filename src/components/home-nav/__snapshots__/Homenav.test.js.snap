@@ -45,7 +45,7 @@ ShallowWrapper {
             to="/about"
           >
             <h3>
-              Bio
+              About Me
             </h3>
             <i
               className="far fa-user fa-6x"
@@ -115,7 +115,7 @@ ShallowWrapper {
               to="/about"
             >
               <h3>
-                Bio
+                About Me
               </h3>
               <i
                 className="far fa-user fa-6x"
@@ -232,7 +232,7 @@ ShallowWrapper {
               to="/about"
             >
               <h3>
-                Bio
+                About Me
               </h3>
               <i
                 className="far fa-user fa-6x"
@@ -248,7 +248,7 @@ ShallowWrapper {
             "props": Object {
               "children": Array [
                 <h3>
-                  Bio
+                  About Me
                 </h3>,
                 <i
                   className="far fa-user fa-6x"
@@ -264,10 +264,10 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "Bio",
+                  "children": "About Me",
                 },
                 "ref": null,
-                "rendered": "Bio",
+                "rendered": "About Me",
                 "type": "h3",
               },
               Object {
@@ -452,7 +452,7 @@ ShallowWrapper {
               to="/about"
             >
               <h3>
-                Bio
+                About Me
               </h3>
               <i
                 className="far fa-user fa-6x"
@@ -522,7 +522,7 @@ ShallowWrapper {
                 to="/about"
               >
                 <h3>
-                  Bio
+                  About Me
                 </h3>
                 <i
                   className="far fa-user fa-6x"
@@ -639,7 +639,7 @@ ShallowWrapper {
                 to="/about"
               >
                 <h3>
-                  Bio
+                  About Me
                 </h3>
                 <i
                   className="far fa-user fa-6x"
@@ -655,7 +655,7 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   <h3>
-                    Bio
+                    About Me
                   </h3>,
                   <i
                     className="far fa-user fa-6x"
@@ -671,10 +671,10 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "host",
                   "props": Object {
-                    "children": "Bio",
+                    "children": "About Me",
                   },
                   "ref": null,
-                  "rendered": "Bio",
+                  "rendered": "About Me",
                   "type": "h3",
                 },
                 Object {

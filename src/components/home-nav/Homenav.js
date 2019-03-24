@@ -17,7 +17,7 @@ class Homenav extends Component {
                     </div>
                     <div className="col s12 m6 xl3 home-nav-item">
                         <Link to="/about" className='home-nav-icon' >
-                            <h3>Bio</h3>
+                            <h3>About Me</h3>
                             <i className="far fa-user fa-6x"></i>
                         </Link>
                     </div>
