@@ -26,7 +26,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         CalSnap
                         <div className="image-background">
-                            <a href="https://calsnap.herokuapp.com/">
+                            <a href="https://calsnap.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={calsnap} className="nav-images" alt="CalSnap"></img>
                                 <div className="middle">
                                     <div className="middle-text">Calorie tracker using visual recognition to identify your food items! Made using React.js</div>
@@ -37,7 +37,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         wait<i>ER </i>App
                         <div className="image-background">
-                            <a href="https://wait-er-2018.herokuapp.com/">
+                            <a href="https://wait-er-2018.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={waiter} className="nav-images" alt="waitER"></img>
                                 <div className="middle">
                                     <div className="middle-text">WaitER is a full stack app that lets a user view hospitals near
@@ -49,7 +49,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Memory Game
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/Memory-Game/">
+                            <a href="https://jmgerow.github.io/Memory-Game/" target="_blank" rel="noopener noreferrer">
                                 <img src={brain} className="nav-images" alt="Memory Game"></img>
                                 <div className="middle">
                                     <div className="middle-text">Click each image only once to win! See if you can get all 12. Made
@@ -61,7 +61,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Article Scraper
                         <div className="image-background">
-                            <a href="https://boiling-savannah-42052.herokuapp.com/">
+                            <a href="https://boiling-savannah-42052.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={article} className="nav-images" alt="Article Scraper"></img>
                                 <div className="middle">
                                     <div className="middle-text">Article Scraper displays current articles from The New York Times
@@ -73,7 +73,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Burger App
                         <div className="image-background">
-                            <a href="https://fierce-ridge-79914.herokuapp.com/">
+                            <a href="https://fierce-ridge-79914.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={burger} className="nav-images" alt="Burger App"></img>
                                 <div className="middle">
                                     <div className="middle-text">Burger App is a full stack application that allows you to create,
@@ -85,7 +85,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Friend Finder
                         <div className="image-background">
-                            <a href="https://thawing-oasis-43899.herokuapp.com/">
+                            <a href="https://thawing-oasis-43899.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={friends} className="nav-images" alt="Friend Finder"></img>
                                 <div className="middle">
                                     <div className="middle-text">Friend Finder will match you with like-minded individuals after
@@ -97,7 +97,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Word Guess
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/Word-Guess-Game/">
+                            <a href="https://jmgerow.github.io/Word-Guess-Game/" target="_blank" rel="noopener noreferrer">
                                 <img src={scrabble} className="nav-images" alt="Word Guess"></img>
                                 <div className="middle">
                                     <div className="middle-text">Word Guess is my take on Hangman with a Middle-Earth twist!</div>
@@ -108,7 +108,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         SHFT App
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/Billion_Dollar_Project/">
+                            <a href="https://jmgerow.github.io/Billion_Dollar_Project/" target="_blank" rel="noopener noreferrer">
                                 <img src={shft} className="nav-images" alt="SHFT"></img>
                                 <div className="middle">
                                     <div className="middle-text">SHFT is an app that gives users the ability to invite their
@@ -120,7 +120,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Gif Generator
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/Giphy/">
+                            <a href="https://jmgerow.github.io/Giphy/" target="_blank" rel="noopener noreferrer">
                                 <img src={pyramid} className="nav-images" alt="Gif Generator"></img>
                                 <div className="middle">
                                     <div className="middle-text">Gif Generator lets you display 10 gifs of any topic. Choose from
@@ -132,7 +132,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Train Schedule
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/Train_Schedule/">
+                            <a href="https://jmgerow.github.io/Train_Schedule/" target="_blank" rel="noopener noreferrer">
                                 <img src={train} className="nav-images" alt="Train"></img>
                                 <div className="middle">
                                     <div className="middle-text">Simulated train schedule using moment.js to calculate arrival
@@ -144,7 +144,7 @@ class Portfolio extends Component {
                     <div className="portfolio-item col s12 m6 xl4">
                         Crystal Collector
                         <div className="image-background">
-                            <a href="https://jmgerow.github.io/unit-4-game">
+                            <a href="https://jmgerow.github.io/unit-4-game" target="_blank" rel="noopener noreferrer">
                                 <img src={crystal} className="nav-images" alt="Crystal"></img>
                                 <div className="middle">
                                     <div className="middle-text">Crystal Collector is a fun memory game that puts your math skills
