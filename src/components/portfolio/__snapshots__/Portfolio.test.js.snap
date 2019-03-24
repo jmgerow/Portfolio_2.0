@@ -1,0 +1,4361 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Portfolio renders without crashing 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Portfolio />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="row blue-grey-text text-darken-1"
+          id="title"
+        >
+          <h3>
+            Portfolio
+          </h3>
+        </div>,
+        <div
+          className="row blue-grey-text text-darken-1"
+          id="portfolio"
+        >
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            CalSnap
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://calsnap.herokuapp.com/"
+              >
+                <img
+                  alt="CalSnap"
+                  className="nav-images"
+                  src="calsnap-logo-port.png"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Calorie tracker using visual recognition to identify your food items! Made using React.js
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            wait
+            <i>
+              ER 
+            </i>
+            App
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://wait-er-2018.herokuapp.com/"
+              >
+                <img
+                  alt="waitER"
+                  className="nav-images"
+                  src="waitER.PNG"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Memory Game
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/Memory-Game/"
+              >
+                <img
+                  alt="Memory Game"
+                  className="nav-images"
+                  src="brain.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Click each image only once to win! See if you can get all 12. Made using React.js
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Article Scraper
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://boiling-savannah-42052.herokuapp.com/"
+              >
+                <img
+                  alt="Article Scraper"
+                  className="nav-images"
+                  src="article-scraper.PNG"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Article Scraper displays current articles from The New York Times Technology Section.
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Burger App
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://fierce-ridge-79914.herokuapp.com/"
+              >
+                <img
+                  alt="Burger App"
+                  className="nav-images"
+                  src="burger.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Friend Finder
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://thawing-oasis-43899.herokuapp.com/"
+              >
+                <img
+                  alt="Friend Finder"
+                  className="nav-images"
+                  src="friends.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Friend Finder will match you with like-minded individuals after completing a short survey
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Word Guess
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/Word-Guess-Game/"
+              >
+                <img
+                  alt="Word Guess"
+                  className="nav-images"
+                  src="scrabble.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Word Guess is my take on Hangman with a Middle-Earth twist!
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            SHFT App
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/Billion_Dollar_Project/"
+              >
+                <img
+                  alt="SHFT"
+                  className="nav-images"
+                  src="shft.PNG"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Gif Generator
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/Giphy/"
+              >
+                <img
+                  alt="Gif Generator"
+                  className="nav-images"
+                  src="pyramid.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Train Schedule
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/Train_Schedule/"
+              >
+                <img
+                  alt="Train"
+                  className="nav-images"
+                  src="train.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div
+            className="portfolio-item col s12 m6 xl4"
+          >
+            Crystal Collector
+            <div
+              className="image-background"
+            >
+              <a
+                href="https://jmgerow.github.io/unit-4-game"
+              >
+                <img
+                  alt="Crystal"
+                  className="nav-images"
+                  src="crystal.jpg"
+                />
+                <div
+                  className="middle"
+                >
+                  <div
+                    className="middle-text"
+                  >
+                    Crystal Collector is a fun memory game that puts your math skills to the test!
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>,
+      ],
+      "className": "container",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <h3>
+            Portfolio
+          </h3>,
+          "className": "row blue-grey-text text-darken-1",
+          "id": "title",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Portfolio",
+          },
+          "ref": null,
+          "rendered": "Portfolio",
+          "type": "h3",
+        },
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              CalSnap
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://calsnap.herokuapp.com/"
+                >
+                  <img
+                    alt="CalSnap"
+                    className="nav-images"
+                    src="calsnap-logo-port.png"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Calorie tracker using visual recognition to identify your food items! Made using React.js
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              wait
+              <i>
+                ER 
+              </i>
+              App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://wait-er-2018.herokuapp.com/"
+                >
+                  <img
+                    alt="waitER"
+                    className="nav-images"
+                    src="waitER.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Memory Game
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Memory-Game/"
+                >
+                  <img
+                    alt="Memory Game"
+                    className="nav-images"
+                    src="brain.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Click each image only once to win! See if you can get all 12. Made using React.js
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Article Scraper
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://boiling-savannah-42052.herokuapp.com/"
+                >
+                  <img
+                    alt="Article Scraper"
+                    className="nav-images"
+                    src="article-scraper.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Article Scraper displays current articles from The New York Times Technology Section.
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Burger App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://fierce-ridge-79914.herokuapp.com/"
+                >
+                  <img
+                    alt="Burger App"
+                    className="nav-images"
+                    src="burger.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Friend Finder
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://thawing-oasis-43899.herokuapp.com/"
+                >
+                  <img
+                    alt="Friend Finder"
+                    className="nav-images"
+                    src="friends.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Friend Finder will match you with like-minded individuals after completing a short survey
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Word Guess
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Word-Guess-Game/"
+                >
+                  <img
+                    alt="Word Guess"
+                    className="nav-images"
+                    src="scrabble.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Word Guess is my take on Hangman with a Middle-Earth twist!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              SHFT App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                >
+                  <img
+                    alt="SHFT"
+                    className="nav-images"
+                    src="shft.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Gif Generator
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Giphy/"
+                >
+                  <img
+                    alt="Gif Generator"
+                    className="nav-images"
+                    src="pyramid.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Train Schedule
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Train_Schedule/"
+                >
+                  <img
+                    alt="Train"
+                    className="nav-images"
+                    src="train.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Crystal Collector
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/unit-4-game"
+                >
+                  <img
+                    alt="Crystal"
+                    className="nav-images"
+                    src="crystal.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Crystal Collector is a fun memory game that puts your math skills to the test!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>,
+          ],
+          "className": "row blue-grey-text text-darken-1",
+          "id": "portfolio",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "CalSnap",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://calsnap.herokuapp.com/"
+                  >
+                    <img
+                      alt="CalSnap"
+                      className="nav-images"
+                      src="calsnap-logo-port.png"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Calorie tracker using visual recognition to identify your food items! Made using React.js
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "CalSnap",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://calsnap.herokuapp.com/"
+                  >
+                    <img
+                      alt="CalSnap"
+                      className="nav-images"
+                      src="calsnap-logo-port.png"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Calorie tracker using visual recognition to identify your food items! Made using React.js
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="CalSnap"
+                        className="nav-images"
+                        src="calsnap-logo-port.png"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Calorie tracker using visual recognition to identify your food items! Made using React.js
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://calsnap.herokuapp.com/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "CalSnap",
+                        "className": "nav-images",
+                        "src": "calsnap-logo-port.png",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Calorie tracker using visual recognition to identify your food items! Made using React.js
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Calorie tracker using visual recognition to identify your food items! Made using React.js",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Calorie tracker using visual recognition to identify your food items! Made using React.js",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "wait",
+                <i>
+                  ER 
+                </i>,
+                "App",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://wait-er-2018.herokuapp.com/"
+                  >
+                    <img
+                      alt="waitER"
+                      className="nav-images"
+                      src="waitER.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "wait",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "ER ",
+                },
+                "ref": null,
+                "rendered": "ER ",
+                "type": "i",
+              },
+              "App",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://wait-er-2018.herokuapp.com/"
+                  >
+                    <img
+                      alt="waitER"
+                      className="nav-images"
+                      src="waitER.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="waitER"
+                        className="nav-images"
+                        src="waitER.PNG"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://wait-er-2018.herokuapp.com/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "waitER",
+                        "className": "nav-images",
+                        "src": "waitER.PNG",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Memory Game",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Memory-Game/"
+                  >
+                    <img
+                      alt="Memory Game"
+                      className="nav-images"
+                      src="brain.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Click each image only once to win! See if you can get all 12. Made using React.js
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Memory Game",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/Memory-Game/"
+                  >
+                    <img
+                      alt="Memory Game"
+                      className="nav-images"
+                      src="brain.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Click each image only once to win! See if you can get all 12. Made using React.js
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Memory Game"
+                        className="nav-images"
+                        src="brain.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Click each image only once to win! See if you can get all 12. Made using React.js
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/Memory-Game/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Memory Game",
+                        "className": "nav-images",
+                        "src": "brain.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Click each image only once to win! See if you can get all 12. Made using React.js
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Click each image only once to win! See if you can get all 12. Made using React.js",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Click each image only once to win! See if you can get all 12. Made using React.js",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Article Scraper",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://boiling-savannah-42052.herokuapp.com/"
+                  >
+                    <img
+                      alt="Article Scraper"
+                      className="nav-images"
+                      src="article-scraper.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Article Scraper displays current articles from The New York Times Technology Section.
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Article Scraper",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://boiling-savannah-42052.herokuapp.com/"
+                  >
+                    <img
+                      alt="Article Scraper"
+                      className="nav-images"
+                      src="article-scraper.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Article Scraper displays current articles from The New York Times Technology Section.
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Article Scraper"
+                        className="nav-images"
+                        src="article-scraper.PNG"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Article Scraper displays current articles from The New York Times Technology Section.
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://boiling-savannah-42052.herokuapp.com/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Article Scraper",
+                        "className": "nav-images",
+                        "src": "article-scraper.PNG",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Article Scraper displays current articles from The New York Times Technology Section.
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Article Scraper displays current articles from The New York Times Technology Section.",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Article Scraper displays current articles from The New York Times Technology Section.",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Burger App",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://fierce-ridge-79914.herokuapp.com/"
+                  >
+                    <img
+                      alt="Burger App"
+                      className="nav-images"
+                      src="burger.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Burger App",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://fierce-ridge-79914.herokuapp.com/"
+                  >
+                    <img
+                      alt="Burger App"
+                      className="nav-images"
+                      src="burger.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Burger App"
+                        className="nav-images"
+                        src="burger.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://fierce-ridge-79914.herokuapp.com/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Burger App",
+                        "className": "nav-images",
+                        "src": "burger.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Friend Finder",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://thawing-oasis-43899.herokuapp.com/"
+                  >
+                    <img
+                      alt="Friend Finder"
+                      className="nav-images"
+                      src="friends.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Friend Finder will match you with like-minded individuals after completing a short survey
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Friend Finder",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://thawing-oasis-43899.herokuapp.com/"
+                  >
+                    <img
+                      alt="Friend Finder"
+                      className="nav-images"
+                      src="friends.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Friend Finder will match you with like-minded individuals after completing a short survey
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Friend Finder"
+                        className="nav-images"
+                        src="friends.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Friend Finder will match you with like-minded individuals after completing a short survey
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://thawing-oasis-43899.herokuapp.com/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Friend Finder",
+                        "className": "nav-images",
+                        "src": "friends.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Friend Finder will match you with like-minded individuals after completing a short survey
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Friend Finder will match you with like-minded individuals after completing a short survey",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Friend Finder will match you with like-minded individuals after completing a short survey",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Word Guess",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Word-Guess-Game/"
+                  >
+                    <img
+                      alt="Word Guess"
+                      className="nav-images"
+                      src="scrabble.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Word Guess is my take on Hangman with a Middle-Earth twist!
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Word Guess",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/Word-Guess-Game/"
+                  >
+                    <img
+                      alt="Word Guess"
+                      className="nav-images"
+                      src="scrabble.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Word Guess is my take on Hangman with a Middle-Earth twist!
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Word Guess"
+                        className="nav-images"
+                        src="scrabble.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Word Guess is my take on Hangman with a Middle-Earth twist!
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/Word-Guess-Game/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Word Guess",
+                        "className": "nav-images",
+                        "src": "scrabble.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Word Guess is my take on Hangman with a Middle-Earth twist!
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Word Guess is my take on Hangman with a Middle-Earth twist!",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Word Guess is my take on Hangman with a Middle-Earth twist!",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "SHFT App",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                  >
+                    <img
+                      alt="SHFT"
+                      className="nav-images"
+                      src="shft.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "SHFT App",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                  >
+                    <img
+                      alt="SHFT"
+                      className="nav-images"
+                      src="shft.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="SHFT"
+                        className="nav-images"
+                        src="shft.PNG"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/Billion_Dollar_Project/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "SHFT",
+                        "className": "nav-images",
+                        "src": "shft.PNG",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Gif Generator",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Giphy/"
+                  >
+                    <img
+                      alt="Gif Generator"
+                      className="nav-images"
+                      src="pyramid.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Gif Generator",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/Giphy/"
+                  >
+                    <img
+                      alt="Gif Generator"
+                      className="nav-images"
+                      src="pyramid.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Gif Generator"
+                        className="nav-images"
+                        src="pyramid.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/Giphy/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Gif Generator",
+                        "className": "nav-images",
+                        "src": "pyramid.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Train Schedule",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Train_Schedule/"
+                  >
+                    <img
+                      alt="Train"
+                      className="nav-images"
+                      src="train.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Train Schedule",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/Train_Schedule/"
+                  >
+                    <img
+                      alt="Train"
+                      className="nav-images"
+                      src="train.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Train"
+                        className="nav-images"
+                        src="train.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/Train_Schedule/",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Train",
+                        "className": "nav-images",
+                        "src": "train.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Simulated train schedule using moment.js to calculate arrival times based on your current time.",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Simulated train schedule using moment.js to calculate arrival times based on your current time.",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Crystal Collector",
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/unit-4-game"
+                  >
+                    <img
+                      alt="Crystal"
+                      className="nav-images"
+                      src="crystal.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Crystal Collector is a fun memory game that puts your math skills to the test!
+                      </div>
+                    </div>
+                  </a>
+                </div>,
+              ],
+              "className": "portfolio-item col s12 m6 xl4",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Crystal Collector",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://jmgerow.github.io/unit-4-game"
+                  >
+                    <img
+                      alt="Crystal"
+                      className="nav-images"
+                      src="crystal.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Crystal Collector is a fun memory game that puts your math skills to the test!
+                      </div>
+                    </div>
+                  </a>,
+                  "className": "image-background",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <img
+                        alt="Crystal"
+                        className="nav-images"
+                        src="crystal.jpg"
+                      />,
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Crystal Collector is a fun memory game that puts your math skills to the test!
+                        </div>
+                      </div>,
+                    ],
+                    "href": "https://jmgerow.github.io/unit-4-game",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Crystal",
+                        "className": "nav-images",
+                        "src": "crystal.jpg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="middle-text"
+                        >
+                          Crystal Collector is a fun memory game that puts your math skills to the test!
+                        </div>,
+                        "className": "middle",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Crystal Collector is a fun memory game that puts your math skills to the test!",
+                          "className": "middle-text",
+                        },
+                        "ref": null,
+                        "rendered": "Crystal Collector is a fun memory game that puts your math skills to the test!",
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                  ],
+                  "type": "a",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="row blue-grey-text text-darken-1"
+            id="title"
+          >
+            <h3>
+              Portfolio
+            </h3>
+          </div>,
+          <div
+            className="row blue-grey-text text-darken-1"
+            id="portfolio"
+          >
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              CalSnap
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://calsnap.herokuapp.com/"
+                >
+                  <img
+                    alt="CalSnap"
+                    className="nav-images"
+                    src="calsnap-logo-port.png"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Calorie tracker using visual recognition to identify your food items! Made using React.js
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              wait
+              <i>
+                ER 
+              </i>
+              App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://wait-er-2018.herokuapp.com/"
+                >
+                  <img
+                    alt="waitER"
+                    className="nav-images"
+                    src="waitER.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Memory Game
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Memory-Game/"
+                >
+                  <img
+                    alt="Memory Game"
+                    className="nav-images"
+                    src="brain.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Click each image only once to win! See if you can get all 12. Made using React.js
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Article Scraper
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://boiling-savannah-42052.herokuapp.com/"
+                >
+                  <img
+                    alt="Article Scraper"
+                    className="nav-images"
+                    src="article-scraper.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Article Scraper displays current articles from The New York Times Technology Section.
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Burger App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://fierce-ridge-79914.herokuapp.com/"
+                >
+                  <img
+                    alt="Burger App"
+                    className="nav-images"
+                    src="burger.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Friend Finder
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://thawing-oasis-43899.herokuapp.com/"
+                >
+                  <img
+                    alt="Friend Finder"
+                    className="nav-images"
+                    src="friends.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Friend Finder will match you with like-minded individuals after completing a short survey
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Word Guess
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Word-Guess-Game/"
+                >
+                  <img
+                    alt="Word Guess"
+                    className="nav-images"
+                    src="scrabble.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Word Guess is my take on Hangman with a Middle-Earth twist!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              SHFT App
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                >
+                  <img
+                    alt="SHFT"
+                    className="nav-images"
+                    src="shft.PNG"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Gif Generator
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Giphy/"
+                >
+                  <img
+                    alt="Gif Generator"
+                    className="nav-images"
+                    src="pyramid.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Train Schedule
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/Train_Schedule/"
+                >
+                  <img
+                    alt="Train"
+                    className="nav-images"
+                    src="train.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              className="portfolio-item col s12 m6 xl4"
+            >
+              Crystal Collector
+              <div
+                className="image-background"
+              >
+                <a
+                  href="https://jmgerow.github.io/unit-4-game"
+                >
+                  <img
+                    alt="Crystal"
+                    className="nav-images"
+                    src="crystal.jpg"
+                  />
+                  <div
+                    className="middle"
+                  >
+                    <div
+                      className="middle-text"
+                    >
+                      Crystal Collector is a fun memory game that puts your math skills to the test!
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>,
+        ],
+        "className": "container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <h3>
+              Portfolio
+            </h3>,
+            "className": "row blue-grey-text text-darken-1",
+            "id": "title",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Portfolio",
+            },
+            "ref": null,
+            "rendered": "Portfolio",
+            "type": "h3",
+          },
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                CalSnap
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://calsnap.herokuapp.com/"
+                  >
+                    <img
+                      alt="CalSnap"
+                      className="nav-images"
+                      src="calsnap-logo-port.png"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Calorie tracker using visual recognition to identify your food items! Made using React.js
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                wait
+                <i>
+                  ER 
+                </i>
+                App
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://wait-er-2018.herokuapp.com/"
+                  >
+                    <img
+                      alt="waitER"
+                      className="nav-images"
+                      src="waitER.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Memory Game
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Memory-Game/"
+                  >
+                    <img
+                      alt="Memory Game"
+                      className="nav-images"
+                      src="brain.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Click each image only once to win! See if you can get all 12. Made using React.js
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Article Scraper
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://boiling-savannah-42052.herokuapp.com/"
+                  >
+                    <img
+                      alt="Article Scraper"
+                      className="nav-images"
+                      src="article-scraper.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Article Scraper displays current articles from The New York Times Technology Section.
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Burger App
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://fierce-ridge-79914.herokuapp.com/"
+                  >
+                    <img
+                      alt="Burger App"
+                      className="nav-images"
+                      src="burger.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Friend Finder
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://thawing-oasis-43899.herokuapp.com/"
+                  >
+                    <img
+                      alt="Friend Finder"
+                      className="nav-images"
+                      src="friends.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Friend Finder will match you with like-minded individuals after completing a short survey
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Word Guess
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Word-Guess-Game/"
+                  >
+                    <img
+                      alt="Word Guess"
+                      className="nav-images"
+                      src="scrabble.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Word Guess is my take on Hangman with a Middle-Earth twist!
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                SHFT App
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                  >
+                    <img
+                      alt="SHFT"
+                      className="nav-images"
+                      src="shft.PNG"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Gif Generator
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Giphy/"
+                  >
+                    <img
+                      alt="Gif Generator"
+                      className="nav-images"
+                      src="pyramid.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Train Schedule
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/Train_Schedule/"
+                  >
+                    <img
+                      alt="Train"
+                      className="nav-images"
+                      src="train.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+              <div
+                className="portfolio-item col s12 m6 xl4"
+              >
+                Crystal Collector
+                <div
+                  className="image-background"
+                >
+                  <a
+                    href="https://jmgerow.github.io/unit-4-game"
+                  >
+                    <img
+                      alt="Crystal"
+                      className="nav-images"
+                      src="crystal.jpg"
+                    />
+                    <div
+                      className="middle"
+                    >
+                      <div
+                        className="middle-text"
+                      >
+                        Crystal Collector is a fun memory game that puts your math skills to the test!
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>,
+            ],
+            "className": "row blue-grey-text text-darken-1",
+            "id": "portfolio",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "CalSnap",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://calsnap.herokuapp.com/"
+                    >
+                      <img
+                        alt="CalSnap"
+                        className="nav-images"
+                        src="calsnap-logo-port.png"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Calorie tracker using visual recognition to identify your food items! Made using React.js
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "CalSnap",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://calsnap.herokuapp.com/"
+                    >
+                      <img
+                        alt="CalSnap"
+                        className="nav-images"
+                        src="calsnap-logo-port.png"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Calorie tracker using visual recognition to identify your food items! Made using React.js
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="CalSnap"
+                          className="nav-images"
+                          src="calsnap-logo-port.png"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Calorie tracker using visual recognition to identify your food items! Made using React.js
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://calsnap.herokuapp.com/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "CalSnap",
+                          "className": "nav-images",
+                          "src": "calsnap-logo-port.png",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Calorie tracker using visual recognition to identify your food items! Made using React.js
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Calorie tracker using visual recognition to identify your food items! Made using React.js",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Calorie tracker using visual recognition to identify your food items! Made using React.js",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "wait",
+                  <i>
+                    ER 
+                  </i>,
+                  "App",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://wait-er-2018.herokuapp.com/"
+                    >
+                      <img
+                        alt="waitER"
+                        className="nav-images"
+                        src="waitER.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "wait",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "ER ",
+                  },
+                  "ref": null,
+                  "rendered": "ER ",
+                  "type": "i",
+                },
+                "App",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://wait-er-2018.herokuapp.com/"
+                    >
+                      <img
+                        alt="waitER"
+                        className="nav-images"
+                        src="waitER.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="waitER"
+                          className="nav-images"
+                          src="waitER.PNG"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://wait-er-2018.herokuapp.com/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "waitER",
+                          "className": "nav-images",
+                          "src": "waitER.PNG",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "WaitER is a full stack app that lets a user view hospitals near their location with current ER wait times",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Memory Game",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/Memory-Game/"
+                    >
+                      <img
+                        alt="Memory Game"
+                        className="nav-images"
+                        src="brain.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Click each image only once to win! See if you can get all 12. Made using React.js
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Memory Game",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/Memory-Game/"
+                    >
+                      <img
+                        alt="Memory Game"
+                        className="nav-images"
+                        src="brain.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Click each image only once to win! See if you can get all 12. Made using React.js
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Memory Game"
+                          className="nav-images"
+                          src="brain.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Click each image only once to win! See if you can get all 12. Made using React.js
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/Memory-Game/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Memory Game",
+                          "className": "nav-images",
+                          "src": "brain.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Click each image only once to win! See if you can get all 12. Made using React.js
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Click each image only once to win! See if you can get all 12. Made using React.js",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Click each image only once to win! See if you can get all 12. Made using React.js",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Article Scraper",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://boiling-savannah-42052.herokuapp.com/"
+                    >
+                      <img
+                        alt="Article Scraper"
+                        className="nav-images"
+                        src="article-scraper.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Article Scraper displays current articles from The New York Times Technology Section.
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Article Scraper",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://boiling-savannah-42052.herokuapp.com/"
+                    >
+                      <img
+                        alt="Article Scraper"
+                        className="nav-images"
+                        src="article-scraper.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Article Scraper displays current articles from The New York Times Technology Section.
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Article Scraper"
+                          className="nav-images"
+                          src="article-scraper.PNG"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Article Scraper displays current articles from The New York Times Technology Section.
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://boiling-savannah-42052.herokuapp.com/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Article Scraper",
+                          "className": "nav-images",
+                          "src": "article-scraper.PNG",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Article Scraper displays current articles from The New York Times Technology Section.
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Article Scraper displays current articles from The New York Times Technology Section.",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Article Scraper displays current articles from The New York Times Technology Section.",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Burger App",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://fierce-ridge-79914.herokuapp.com/"
+                    >
+                      <img
+                        alt="Burger App"
+                        className="nav-images"
+                        src="burger.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Burger App",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://fierce-ridge-79914.herokuapp.com/"
+                    >
+                      <img
+                        alt="Burger App"
+                        className="nav-images"
+                        src="burger.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Burger App"
+                          className="nav-images"
+                          src="burger.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://fierce-ridge-79914.herokuapp.com/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Burger App",
+                          "className": "nav-images",
+                          "src": "burger.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Burger App is a full stack application that allows you to create, devour, and re-make your favorite burgers!",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Friend Finder",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://thawing-oasis-43899.herokuapp.com/"
+                    >
+                      <img
+                        alt="Friend Finder"
+                        className="nav-images"
+                        src="friends.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Friend Finder will match you with like-minded individuals after completing a short survey
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Friend Finder",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://thawing-oasis-43899.herokuapp.com/"
+                    >
+                      <img
+                        alt="Friend Finder"
+                        className="nav-images"
+                        src="friends.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Friend Finder will match you with like-minded individuals after completing a short survey
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Friend Finder"
+                          className="nav-images"
+                          src="friends.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Friend Finder will match you with like-minded individuals after completing a short survey
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://thawing-oasis-43899.herokuapp.com/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Friend Finder",
+                          "className": "nav-images",
+                          "src": "friends.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Friend Finder will match you with like-minded individuals after completing a short survey
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Friend Finder will match you with like-minded individuals after completing a short survey",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Friend Finder will match you with like-minded individuals after completing a short survey",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Word Guess",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/Word-Guess-Game/"
+                    >
+                      <img
+                        alt="Word Guess"
+                        className="nav-images"
+                        src="scrabble.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Word Guess is my take on Hangman with a Middle-Earth twist!
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Word Guess",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/Word-Guess-Game/"
+                    >
+                      <img
+                        alt="Word Guess"
+                        className="nav-images"
+                        src="scrabble.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Word Guess is my take on Hangman with a Middle-Earth twist!
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Word Guess"
+                          className="nav-images"
+                          src="scrabble.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Word Guess is my take on Hangman with a Middle-Earth twist!
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/Word-Guess-Game/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Word Guess",
+                          "className": "nav-images",
+                          "src": "scrabble.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Word Guess is my take on Hangman with a Middle-Earth twist!
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Word Guess is my take on Hangman with a Middle-Earth twist!",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Word Guess is my take on Hangman with a Middle-Earth twist!",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "SHFT App",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                    >
+                      <img
+                        alt="SHFT"
+                        className="nav-images"
+                        src="shft.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "SHFT App",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                    >
+                      <img
+                        alt="SHFT"
+                        className="nav-images"
+                        src="shft.PNG"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="SHFT"
+                          className="nav-images"
+                          src="shft.PNG"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/Billion_Dollar_Project/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "SHFT",
+                          "className": "nav-images",
+                          "src": "shft.PNG",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "SHFT is an app that gives users the ability to invite their friends to a group and helps them decide on events to attend",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Gif Generator",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/Giphy/"
+                    >
+                      <img
+                        alt="Gif Generator"
+                        className="nav-images"
+                        src="pyramid.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Gif Generator",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/Giphy/"
+                    >
+                      <img
+                        alt="Gif Generator"
+                        className="nav-images"
+                        src="pyramid.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Gif Generator"
+                          className="nav-images"
+                          src="pyramid.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/Giphy/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Gif Generator",
+                          "className": "nav-images",
+                          "src": "pyramid.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Gif Generator lets you display 10 gifs of any topic. Choose from the preset topics or create a new one. Click the image to animate",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Train Schedule",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/Train_Schedule/"
+                    >
+                      <img
+                        alt="Train"
+                        className="nav-images"
+                        src="train.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Train Schedule",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/Train_Schedule/"
+                    >
+                      <img
+                        alt="Train"
+                        className="nav-images"
+                        src="train.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Train"
+                          className="nav-images"
+                          src="train.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/Train_Schedule/",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Train",
+                          "className": "nav-images",
+                          "src": "train.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Simulated train schedule using moment.js to calculate arrival times based on your current time.
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Simulated train schedule using moment.js to calculate arrival times based on your current time.",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Simulated train schedule using moment.js to calculate arrival times based on your current time.",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Crystal Collector",
+                  <div
+                    className="image-background"
+                  >
+                    <a
+                      href="https://jmgerow.github.io/unit-4-game"
+                    >
+                      <img
+                        alt="Crystal"
+                        className="nav-images"
+                        src="crystal.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Crystal Collector is a fun memory game that puts your math skills to the test!
+                        </div>
+                      </div>
+                    </a>
+                  </div>,
+                ],
+                "className": "portfolio-item col s12 m6 xl4",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Crystal Collector",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <a
+                      href="https://jmgerow.github.io/unit-4-game"
+                    >
+                      <img
+                        alt="Crystal"
+                        className="nav-images"
+                        src="crystal.jpg"
+                      />
+                      <div
+                        className="middle"
+                      >
+                        <div
+                          className="middle-text"
+                        >
+                          Crystal Collector is a fun memory game that puts your math skills to the test!
+                        </div>
+                      </div>
+                    </a>,
+                    "className": "image-background",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <img
+                          alt="Crystal"
+                          className="nav-images"
+                          src="crystal.jpg"
+                        />,
+                        <div
+                          className="middle"
+                        >
+                          <div
+                            className="middle-text"
+                          >
+                            Crystal Collector is a fun memory game that puts your math skills to the test!
+                          </div>
+                        </div>,
+                      ],
+                      "href": "https://jmgerow.github.io/unit-4-game",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "alt": "Crystal",
+                          "className": "nav-images",
+                          "src": "crystal.jpg",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "img",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="middle-text"
+                          >
+                            Crystal Collector is a fun memory game that puts your math skills to the test!
+                          </div>,
+                          "className": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Crystal Collector is a fun memory game that puts your math skills to the test!",
+                            "className": "middle-text",
+                          },
+                          "ref": null,
+                          "rendered": "Crystal Collector is a fun memory game that puts your math skills to the test!",
+                          "type": "div",
+                        },
+                        "type": "div",
+                      },
+                    ],
+                    "type": "a",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    "disableLifecycleMethods": true,
+  },
+}
+`;

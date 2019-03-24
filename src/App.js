@@ -5,6 +5,8 @@ import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
 import Home from './components/home/Home';
 import About from './components/about/About';
+import Portfolio from './components/portfolio/Portfolio';
+
 import './App.css';
 
 class App extends Component {
@@ -23,6 +25,7 @@ class App extends Component {
           <Navbar />
             <Route exact path="/" component={Home} />
             <Route exact path="/about" component={About} />
+            <Route exact path="/portfolio" component={Portfolio} />
           <Footer />
         </div>
       </Router>

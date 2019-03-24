@@ -32,6 +32,11 @@ ShallowWrapper {
           exact={true}
           path="/about"
         />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/portfolio"
+        />
         <Footer />
       </div>,
     },
@@ -52,6 +57,11 @@ ShallowWrapper {
             component={[Function]}
             exact={true}
             path="/about"
+          />,
+          <Route
+            component={[Function]}
+            exact={true}
+            path="/portfolio"
           />,
           <Footer />,
         ],
@@ -98,6 +108,19 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "class",
+          "props": Object {
+            "component": [Function],
+            "exact": true,
+            "path": "/portfolio",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
           "props": Object {},
           "ref": null,
           "rendered": null,
@@ -128,6 +151,11 @@ ShallowWrapper {
             exact={true}
             path="/about"
           />
+          <Route
+            component={[Function]}
+            exact={true}
+            path="/portfolio"
+          />
           <Footer />
         </div>,
       },
@@ -148,6 +176,11 @@ ShallowWrapper {
               component={[Function]}
               exact={true}
               path="/about"
+            />,
+            <Route
+              component={[Function]}
+              exact={true}
+              path="/portfolio"
             />,
             <Footer />,
           ],
@@ -185,6 +218,19 @@ ShallowWrapper {
               "component": [Function],
               "exact": true,
               "path": "/about",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "component": [Function],
+              "exact": true,
+              "path": "/portfolio",
             },
             "ref": null,
             "rendered": null,
