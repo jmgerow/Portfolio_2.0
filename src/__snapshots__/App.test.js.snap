@@ -37,6 +37,11 @@ ShallowWrapper {
           exact={true}
           path="/portfolio"
         />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/resume"
+        />
         <Footer />
       </div>,
     },
@@ -62,6 +67,11 @@ ShallowWrapper {
             component={[Function]}
             exact={true}
             path="/portfolio"
+          />,
+          <Route
+            component={[Function]}
+            exact={true}
+            path="/resume"
           />,
           <Footer />,
         ],
@@ -121,6 +131,19 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "class",
+          "props": Object {
+            "component": [Function],
+            "exact": true,
+            "path": "/resume",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
           "props": Object {},
           "ref": null,
           "rendered": null,
@@ -156,6 +179,11 @@ ShallowWrapper {
             exact={true}
             path="/portfolio"
           />
+          <Route
+            component={[Function]}
+            exact={true}
+            path="/resume"
+          />
           <Footer />
         </div>,
       },
@@ -181,6 +209,11 @@ ShallowWrapper {
               component={[Function]}
               exact={true}
               path="/portfolio"
+            />,
+            <Route
+              component={[Function]}
+              exact={true}
+              path="/resume"
             />,
             <Footer />,
           ],
@@ -231,6 +264,19 @@ ShallowWrapper {
               "component": [Function],
               "exact": true,
               "path": "/portfolio",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "component": [Function],
+              "exact": true,
+              "path": "/resume",
             },
             "ref": null,
             "rendered": null,
