@@ -1,0 +1,1445 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact renders without crashing 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Contact />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="row blue-grey-text text-darken-1"
+          id="title"
+        >
+          <h3>
+            Contact
+          </h3>
+        </div>,
+        <div
+          className="row center"
+        >
+          <a
+            href="https://github.com/jmgerow"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <i
+              className="fab fa-github fa-6x"
+              id="contact-icons"
+            />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/justingerow/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <i
+              className="fab fa-linkedin fa-6x"
+              id="contact-icons"
+            />
+          </a>
+          <a
+            href="https://twitter.com/jmgerow"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <i
+              className="fab fa-twitter-square fa-6x"
+              id="contact-icons"
+            />
+          </a>
+          <a
+            href="mailto:justingerow1@gmail.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <i
+              className="fas fa-envelope-square fa-6x"
+              id="contact-icons"
+            />
+          </a>
+        </div>,
+        <div
+          className="row blue-grey-text text-darken-1"
+          id="contact"
+        >
+          <form
+            id="contact-form"
+          >
+            <ul>
+              <li>
+                <label
+                  htmlFor="name"
+                >
+                  Name
+                </label>
+                <input
+                  id="name"
+                  name="name"
+                  placeholder="John Smith"
+                  required="required"
+                  type="text"
+                />
+              </li>
+              <li>
+                <label
+                  htmlFor="email"
+                >
+                  Email
+                </label>
+                <input
+                  id="email"
+                  name="email"
+                  placeholder="example@gmail.com"
+                  required="required"
+                  type="email"
+                />
+              </li>
+              <li>
+                <label
+                  htmlFor="message"
+                >
+                  Message
+                </label>
+                <textarea
+                  id="message"
+                  name="message"
+                  required="required"
+                />
+              </li>
+            </ul>
+            <button
+              className="btn waves-effect waves-light blue-grey"
+              name="action"
+              onClick={[Function]}
+              type="submit"
+            >
+              Submit
+              <i
+                className="material-icons right"
+              >
+                send
+              </i>
+            </button>
+          </form>
+        </div>,
+      ],
+      "className": "container",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <h3>
+            Contact
+          </h3>,
+          "className": "row blue-grey-text text-darken-1",
+          "id": "title",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Contact",
+          },
+          "ref": null,
+          "rendered": "Contact",
+          "type": "h3",
+        },
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <a
+              href="https://github.com/jmgerow"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-github fa-6x"
+                id="contact-icons"
+              />
+            </a>,
+            <a
+              href="https://www.linkedin.com/in/justingerow/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-linkedin fa-6x"
+                id="contact-icons"
+              />
+            </a>,
+            <a
+              href="https://twitter.com/jmgerow"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-twitter-square fa-6x"
+                id="contact-icons"
+              />
+            </a>,
+            <a
+              href="mailto:justingerow1@gmail.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fas fa-envelope-square fa-6x"
+                id="contact-icons"
+              />
+            </a>,
+          ],
+          "className": "row center",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <i
+                className="fab fa-github fa-6x"
+                id="contact-icons"
+              />,
+              "href": "https://github.com/jmgerow",
+              "rel": "noopener noreferrer",
+              "target": "_blank",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "fab fa-github fa-6x",
+                "id": "contact-icons",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "i",
+            },
+            "type": "a",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <i
+                className="fab fa-linkedin fa-6x"
+                id="contact-icons"
+              />,
+              "href": "https://www.linkedin.com/in/justingerow/",
+              "rel": "noopener noreferrer",
+              "target": "_blank",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "fab fa-linkedin fa-6x",
+                "id": "contact-icons",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "i",
+            },
+            "type": "a",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <i
+                className="fab fa-twitter-square fa-6x"
+                id="contact-icons"
+              />,
+              "href": "https://twitter.com/jmgerow",
+              "rel": "noopener noreferrer",
+              "target": "_blank",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "fab fa-twitter-square fa-6x",
+                "id": "contact-icons",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "i",
+            },
+            "type": "a",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <i
+                className="fas fa-envelope-square fa-6x"
+                id="contact-icons"
+              />,
+              "href": "mailto:justingerow1@gmail.com",
+              "rel": "noopener noreferrer",
+              "target": "_blank",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "fas fa-envelope-square fa-6x",
+                "id": "contact-icons",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "i",
+            },
+            "type": "a",
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <form
+            id="contact-form"
+          >
+            <ul>
+              <li>
+                <label
+                  htmlFor="name"
+                >
+                  Name
+                </label>
+                <input
+                  id="name"
+                  name="name"
+                  placeholder="John Smith"
+                  required="required"
+                  type="text"
+                />
+              </li>
+              <li>
+                <label
+                  htmlFor="email"
+                >
+                  Email
+                </label>
+                <input
+                  id="email"
+                  name="email"
+                  placeholder="example@gmail.com"
+                  required="required"
+                  type="email"
+                />
+              </li>
+              <li>
+                <label
+                  htmlFor="message"
+                >
+                  Message
+                </label>
+                <textarea
+                  id="message"
+                  name="message"
+                  required="required"
+                />
+              </li>
+            </ul>
+            <button
+              className="btn waves-effect waves-light blue-grey"
+              name="action"
+              onClick={[Function]}
+              type="submit"
+            >
+              Submit
+              <i
+                className="material-icons right"
+              >
+                send
+              </i>
+            </button>
+          </form>,
+          "className": "row blue-grey-text text-darken-1",
+          "id": "contact",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <ul>
+                <li>
+                  <label
+                    htmlFor="name"
+                  >
+                    Name
+                  </label>
+                  <input
+                    id="name"
+                    name="name"
+                    placeholder="John Smith"
+                    required="required"
+                    type="text"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="email"
+                  >
+                    Email
+                  </label>
+                  <input
+                    id="email"
+                    name="email"
+                    placeholder="example@gmail.com"
+                    required="required"
+                    type="email"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="message"
+                  >
+                    Message
+                  </label>
+                  <textarea
+                    id="message"
+                    name="message"
+                    required="required"
+                  />
+                </li>
+              </ul>,
+              <button
+                className="btn waves-effect waves-light blue-grey"
+                name="action"
+                onClick={[Function]}
+                type="submit"
+              >
+                Submit
+                <i
+                  className="material-icons right"
+                >
+                  send
+                </i>
+              </button>,
+            ],
+            "id": "contact-form",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li>
+                    <label
+                      htmlFor="name"
+                    >
+                      Name
+                    </label>
+                    <input
+                      id="name"
+                      name="name"
+                      placeholder="John Smith"
+                      required="required"
+                      type="text"
+                    />
+                  </li>,
+                  <li>
+                    <label
+                      htmlFor="email"
+                    >
+                      Email
+                    </label>
+                    <input
+                      id="email"
+                      name="email"
+                      placeholder="example@gmail.com"
+                      required="required"
+                      type="email"
+                    />
+                  </li>,
+                  <li>
+                    <label
+                      htmlFor="message"
+                    >
+                      Message
+                    </label>
+                    <textarea
+                      id="message"
+                      name="message"
+                      required="required"
+                    />
+                  </li>,
+                ],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <label
+                        htmlFor="name"
+                      >
+                        Name
+                      </label>,
+                      <input
+                        id="name"
+                        name="name"
+                        placeholder="John Smith"
+                        required="required"
+                        type="text"
+                      />,
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Name",
+                        "htmlFor": "name",
+                      },
+                      "ref": null,
+                      "rendered": "Name",
+                      "type": "label",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "id": "name",
+                        "name": "name",
+                        "placeholder": "John Smith",
+                        "required": "required",
+                        "type": "text",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "input",
+                    },
+                  ],
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <label
+                        htmlFor="email"
+                      >
+                        Email
+                      </label>,
+                      <input
+                        id="email"
+                        name="email"
+                        placeholder="example@gmail.com"
+                        required="required"
+                        type="email"
+                      />,
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Email",
+                        "htmlFor": "email",
+                      },
+                      "ref": null,
+                      "rendered": "Email",
+                      "type": "label",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "id": "email",
+                        "name": "email",
+                        "placeholder": "example@gmail.com",
+                        "required": "required",
+                        "type": "email",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "input",
+                    },
+                  ],
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <label
+                        htmlFor="message"
+                      >
+                        Message
+                      </label>,
+                      <textarea
+                        id="message"
+                        name="message"
+                        required="required"
+                      />,
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Message",
+                        "htmlFor": "message",
+                      },
+                      "ref": null,
+                      "rendered": "Message",
+                      "type": "label",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "id": "message",
+                        "name": "message",
+                        "required": "required",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "textarea",
+                    },
+                  ],
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Submit",
+                  <i
+                    className="material-icons right"
+                  >
+                    send
+                  </i>,
+                ],
+                "className": "btn waves-effect waves-light blue-grey",
+                "name": "action",
+                "onClick": [Function],
+                "type": "submit",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Submit",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "send",
+                    "className": "material-icons right",
+                  },
+                  "ref": null,
+                  "rendered": "send",
+                  "type": "i",
+                },
+              ],
+              "type": "button",
+            },
+          ],
+          "type": "form",
+        },
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="row blue-grey-text text-darken-1"
+            id="title"
+          >
+            <h3>
+              Contact
+            </h3>
+          </div>,
+          <div
+            className="row center"
+          >
+            <a
+              href="https://github.com/jmgerow"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-github fa-6x"
+                id="contact-icons"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/justingerow/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-linkedin fa-6x"
+                id="contact-icons"
+              />
+            </a>
+            <a
+              href="https://twitter.com/jmgerow"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fab fa-twitter-square fa-6x"
+                id="contact-icons"
+              />
+            </a>
+            <a
+              href="mailto:justingerow1@gmail.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fas fa-envelope-square fa-6x"
+                id="contact-icons"
+              />
+            </a>
+          </div>,
+          <div
+            className="row blue-grey-text text-darken-1"
+            id="contact"
+          >
+            <form
+              id="contact-form"
+            >
+              <ul>
+                <li>
+                  <label
+                    htmlFor="name"
+                  >
+                    Name
+                  </label>
+                  <input
+                    id="name"
+                    name="name"
+                    placeholder="John Smith"
+                    required="required"
+                    type="text"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="email"
+                  >
+                    Email
+                  </label>
+                  <input
+                    id="email"
+                    name="email"
+                    placeholder="example@gmail.com"
+                    required="required"
+                    type="email"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="message"
+                  >
+                    Message
+                  </label>
+                  <textarea
+                    id="message"
+                    name="message"
+                    required="required"
+                  />
+                </li>
+              </ul>
+              <button
+                className="btn waves-effect waves-light blue-grey"
+                name="action"
+                onClick={[Function]}
+                type="submit"
+              >
+                Submit
+                <i
+                  className="material-icons right"
+                >
+                  send
+                </i>
+              </button>
+            </form>
+          </div>,
+        ],
+        "className": "container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <h3>
+              Contact
+            </h3>,
+            "className": "row blue-grey-text text-darken-1",
+            "id": "title",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Contact",
+            },
+            "ref": null,
+            "rendered": "Contact",
+            "type": "h3",
+          },
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <a
+                href="https://github.com/jmgerow"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  className="fab fa-github fa-6x"
+                  id="contact-icons"
+                />
+              </a>,
+              <a
+                href="https://www.linkedin.com/in/justingerow/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  className="fab fa-linkedin fa-6x"
+                  id="contact-icons"
+                />
+              </a>,
+              <a
+                href="https://twitter.com/jmgerow"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  className="fab fa-twitter-square fa-6x"
+                  id="contact-icons"
+                />
+              </a>,
+              <a
+                href="mailto:justingerow1@gmail.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  className="fas fa-envelope-square fa-6x"
+                  id="contact-icons"
+                />
+              </a>,
+            ],
+            "className": "row center",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <i
+                  className="fab fa-github fa-6x"
+                  id="contact-icons"
+                />,
+                "href": "https://github.com/jmgerow",
+                "rel": "noopener noreferrer",
+                "target": "_blank",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "fab fa-github fa-6x",
+                  "id": "contact-icons",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "i",
+              },
+              "type": "a",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <i
+                  className="fab fa-linkedin fa-6x"
+                  id="contact-icons"
+                />,
+                "href": "https://www.linkedin.com/in/justingerow/",
+                "rel": "noopener noreferrer",
+                "target": "_blank",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "fab fa-linkedin fa-6x",
+                  "id": "contact-icons",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "i",
+              },
+              "type": "a",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <i
+                  className="fab fa-twitter-square fa-6x"
+                  id="contact-icons"
+                />,
+                "href": "https://twitter.com/jmgerow",
+                "rel": "noopener noreferrer",
+                "target": "_blank",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "fab fa-twitter-square fa-6x",
+                  "id": "contact-icons",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "i",
+              },
+              "type": "a",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <i
+                  className="fas fa-envelope-square fa-6x"
+                  id="contact-icons"
+                />,
+                "href": "mailto:justingerow1@gmail.com",
+                "rel": "noopener noreferrer",
+                "target": "_blank",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "fas fa-envelope-square fa-6x",
+                  "id": "contact-icons",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "i",
+              },
+              "type": "a",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <form
+              id="contact-form"
+            >
+              <ul>
+                <li>
+                  <label
+                    htmlFor="name"
+                  >
+                    Name
+                  </label>
+                  <input
+                    id="name"
+                    name="name"
+                    placeholder="John Smith"
+                    required="required"
+                    type="text"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="email"
+                  >
+                    Email
+                  </label>
+                  <input
+                    id="email"
+                    name="email"
+                    placeholder="example@gmail.com"
+                    required="required"
+                    type="email"
+                  />
+                </li>
+                <li>
+                  <label
+                    htmlFor="message"
+                  >
+                    Message
+                  </label>
+                  <textarea
+                    id="message"
+                    name="message"
+                    required="required"
+                  />
+                </li>
+              </ul>
+              <button
+                className="btn waves-effect waves-light blue-grey"
+                name="action"
+                onClick={[Function]}
+                type="submit"
+              >
+                Submit
+                <i
+                  className="material-icons right"
+                >
+                  send
+                </i>
+              </button>
+            </form>,
+            "className": "row blue-grey-text text-darken-1",
+            "id": "contact",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <ul>
+                  <li>
+                    <label
+                      htmlFor="name"
+                    >
+                      Name
+                    </label>
+                    <input
+                      id="name"
+                      name="name"
+                      placeholder="John Smith"
+                      required="required"
+                      type="text"
+                    />
+                  </li>
+                  <li>
+                    <label
+                      htmlFor="email"
+                    >
+                      Email
+                    </label>
+                    <input
+                      id="email"
+                      name="email"
+                      placeholder="example@gmail.com"
+                      required="required"
+                      type="email"
+                    />
+                  </li>
+                  <li>
+                    <label
+                      htmlFor="message"
+                    >
+                      Message
+                    </label>
+                    <textarea
+                      id="message"
+                      name="message"
+                      required="required"
+                    />
+                  </li>
+                </ul>,
+                <button
+                  className="btn waves-effect waves-light blue-grey"
+                  name="action"
+                  onClick={[Function]}
+                  type="submit"
+                >
+                  Submit
+                  <i
+                    className="material-icons right"
+                  >
+                    send
+                  </i>
+                </button>,
+              ],
+              "id": "contact-form",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <li>
+                      <label
+                        htmlFor="name"
+                      >
+                        Name
+                      </label>
+                      <input
+                        id="name"
+                        name="name"
+                        placeholder="John Smith"
+                        required="required"
+                        type="text"
+                      />
+                    </li>,
+                    <li>
+                      <label
+                        htmlFor="email"
+                      >
+                        Email
+                      </label>
+                      <input
+                        id="email"
+                        name="email"
+                        placeholder="example@gmail.com"
+                        required="required"
+                        type="email"
+                      />
+                    </li>,
+                    <li>
+                      <label
+                        htmlFor="message"
+                      >
+                        Message
+                      </label>
+                      <textarea
+                        id="message"
+                        name="message"
+                        required="required"
+                      />
+                    </li>,
+                  ],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <label
+                          htmlFor="name"
+                        >
+                          Name
+                        </label>,
+                        <input
+                          id="name"
+                          name="name"
+                          placeholder="John Smith"
+                          required="required"
+                          type="text"
+                        />,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Name",
+                          "htmlFor": "name",
+                        },
+                        "ref": null,
+                        "rendered": "Name",
+                        "type": "label",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "id": "name",
+                          "name": "name",
+                          "placeholder": "John Smith",
+                          "required": "required",
+                          "type": "text",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "input",
+                      },
+                    ],
+                    "type": "li",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <label
+                          htmlFor="email"
+                        >
+                          Email
+                        </label>,
+                        <input
+                          id="email"
+                          name="email"
+                          placeholder="example@gmail.com"
+                          required="required"
+                          type="email"
+                        />,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Email",
+                          "htmlFor": "email",
+                        },
+                        "ref": null,
+                        "rendered": "Email",
+                        "type": "label",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "id": "email",
+                          "name": "email",
+                          "placeholder": "example@gmail.com",
+                          "required": "required",
+                          "type": "email",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "input",
+                      },
+                    ],
+                    "type": "li",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <label
+                          htmlFor="message"
+                        >
+                          Message
+                        </label>,
+                        <textarea
+                          id="message"
+                          name="message"
+                          required="required"
+                        />,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Message",
+                          "htmlFor": "message",
+                        },
+                        "ref": null,
+                        "rendered": "Message",
+                        "type": "label",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "id": "message",
+                          "name": "message",
+                          "required": "required",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "textarea",
+                      },
+                    ],
+                    "type": "li",
+                  },
+                ],
+                "type": "ul",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    "Submit",
+                    <i
+                      className="material-icons right"
+                    >
+                      send
+                    </i>,
+                  ],
+                  "className": "btn waves-effect waves-light blue-grey",
+                  "name": "action",
+                  "onClick": [Function],
+                  "type": "submit",
+                },
+                "ref": null,
+                "rendered": Array [
+                  "Submit",
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "send",
+                      "className": "material-icons right",
+                    },
+                    "ref": null,
+                    "rendered": "send",
+                    "type": "i",
+                  },
+                ],
+                "type": "button",
+              },
+            ],
+            "type": "form",
+          },
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    "disableLifecycleMethods": true,
+  },
+}
+`;

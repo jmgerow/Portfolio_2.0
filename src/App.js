@@ -7,6 +7,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Portfolio from './components/portfolio/Portfolio';
 import Resume from './components/resume/Resume';
+import Contact from './components/contact/Contact';
 
 import './App.css';
 
@@ -28,6 +29,7 @@ class App extends Component {
             <Route exact path="/about" component={About} />
             <Route exact path="/portfolio" component={Portfolio} />
             <Route exact path="/resume" component={Resume} />
+            <Route exact path="/contact" component={Contact} />
           <Footer />
         </div>
       </Router>

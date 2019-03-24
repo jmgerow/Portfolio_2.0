@@ -14,7 +14,7 @@ class Resume extends Component {
                 </div>
                 <div className="row">
                     <div className="col s12 center">
-                        <embed src={resume} class="resume" />
+                        <embed src={resume} className="resume" />
                     </div>
                 </div>
             </div>
