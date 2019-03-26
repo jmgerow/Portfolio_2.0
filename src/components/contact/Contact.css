@@ -7,3 +7,11 @@
 label {
     font-size: 18px;
 }
+
+@media screen and (max-width: 640px) {
+  
+    #contact-icons {
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+  }

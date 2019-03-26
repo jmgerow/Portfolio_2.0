@@ -3,3 +3,12 @@
     width: 100%;
     height: 2000px;
 }
+
+@media screen and (max-width: 640px) {
+  
+    .resume {
+        width: 330px;
+        height: auto;
+    }
+
+  }

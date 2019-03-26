@@ -31,7 +31,7 @@ ShallowWrapper {
             Justin Gerow
           </Link>
           <ul
-            className="right hide-on-med-and-down"
+            className="right hide-on-small-only nav-items"
           >
             <li>
               <Link
@@ -86,7 +86,7 @@ ShallowWrapper {
             Justin Gerow
           </Link>
           <ul
-            className="right hide-on-med-and-down"
+            className="right hide-on-small-only nav-items"
           >
             <li>
               <Link
@@ -138,7 +138,7 @@ ShallowWrapper {
               Justin Gerow
             </Link>,
             <ul
-              className="right hide-on-med-and-down"
+              className="right hide-on-small-only nav-items"
             >
               <li>
                 <Link
@@ -230,7 +230,7 @@ ShallowWrapper {
                   </Link>
                 </li>,
               ],
-              "className": "right hide-on-med-and-down",
+              "className": "right hide-on-small-only nav-items",
             },
             "ref": null,
             "rendered": Array [
@@ -375,7 +375,7 @@ ShallowWrapper {
               Justin Gerow
             </Link>
             <ul
-              className="right hide-on-med-and-down"
+              className="right hide-on-small-only nav-items"
             >
               <li>
                 <Link
@@ -430,7 +430,7 @@ ShallowWrapper {
               Justin Gerow
             </Link>
             <ul
-              className="right hide-on-med-and-down"
+              className="right hide-on-small-only nav-items"
             >
               <li>
                 <Link
@@ -482,7 +482,7 @@ ShallowWrapper {
                 Justin Gerow
               </Link>,
               <ul
-                className="right hide-on-med-and-down"
+                className="right hide-on-small-only nav-items"
               >
                 <li>
                   <Link
@@ -574,7 +574,7 @@ ShallowWrapper {
                     </Link>
                   </li>,
                 ],
-                "className": "right hide-on-med-and-down",
+                "className": "right hide-on-small-only nav-items",
               },
               "ref": null,
               "rendered": Array [

@@ -12,6 +12,11 @@ class Navbar extends Component {
     }
   }
 
+  // componentDidMount() {
+  //   var elems = document.querySelectorAll('.sidenav');
+  //   var instances = M.Sidenav.init(elems, );
+  // }
+
   render() {
     return (
       <div className="navbar-fixed">
@@ -20,7 +25,10 @@ class Navbar extends Component {
             <Link className='brand-logo left blue-grey-text text-darken-1' to="/">
               {this.state.title}
             </Link>
-            <ul className="right hide-on-med-and-down">
+            {/* <a href="#" data-target="mobile-demo" className="sidenav-trigger blue-grey-text text-darken-1">
+              <i className="material-icons">menu</i>
+            </a> */}
+            <ul className="right hide-on-small-only nav-items">
               <li>
                 <Link className="nav-link blue-grey-text text-darken-1" to="/portfolio">Portfolio</Link>
               </li>
@@ -35,8 +43,22 @@ class Navbar extends Component {
               </li>
             </ul>
           </div>
-
         </nav>
+
+        {/* <ul className="sidenav" id="mobile-demo">
+          <li>
+            <a href="portfolio.html">Portfolio</a>
+          </li>
+          <li>
+            <a href="aboutme.html">About Me</a>
+          </li>
+          <li>
+            <a href="resume.html">Resume</a>
+          </li>
+          <li>
+            <a href="contact.html">Contact</a>
+          </li>
+        </ul> */}
       </div>
     );
   }
