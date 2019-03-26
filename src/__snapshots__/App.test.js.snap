@@ -16,42 +16,129 @@ ShallowWrapper {
   Symbol(enzyme.__node__): Object {
     "instance": null,
     "key": undefined,
-    "nodeType": "class",
+    "nodeType": "host",
     "props": Object {
-      "children": <div
-        className="App"
-      >
-        <Navbar />
+      "children": Array [
+        <Navbar />,
         <Route
-          component={[Function]}
           exact={true}
           path="/"
-        />
+          render={[Function]}
+        />,
         <Route
-          component={[Function]}
           exact={true}
           path="/about"
-        />
+          render={[Function]}
+        />,
         <Route
-          component={[Function]}
           exact={true}
           path="/portfolio"
-        />
+          render={[Function]}
+        />,
         <Route
-          component={[Function]}
           exact={true}
           path="/resume"
-        />
+          render={[Function]}
+        />,
         <Route
-          component={[Function]}
           exact={true}
           path="/contact"
-        />
-        <Footer />
-      </div>,
+          render={[Function]}
+        />,
+        <Footer />,
+      ],
+      "className": "App",
     },
     "ref": null,
-    "rendered": Object {
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "exact": true,
+          "path": "/",
+          "render": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "exact": true,
+          "path": "/about",
+          "render": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "exact": true,
+          "path": "/portfolio",
+          "render": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "exact": true,
+          "path": "/resume",
+          "render": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "exact": true,
+          "path": "/contact",
+          "render": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
       "instance": null,
       "key": undefined,
       "nodeType": "host",
@@ -59,29 +146,29 @@ ShallowWrapper {
         "children": Array [
           <Navbar />,
           <Route
-            component={[Function]}
             exact={true}
             path="/"
+            render={[Function]}
           />,
           <Route
-            component={[Function]}
             exact={true}
             path="/about"
+            render={[Function]}
           />,
           <Route
-            component={[Function]}
             exact={true}
             path="/portfolio"
+            render={[Function]}
           />,
           <Route
-            component={[Function]}
             exact={true}
             path="/resume"
+            render={[Function]}
           />,
           <Route
-            component={[Function]}
             exact={true}
             path="/contact"
+            render={[Function]}
           />,
           <Footer />,
         ],
@@ -103,9 +190,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "component": [Function],
             "exact": true,
             "path": "/",
+            "render": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -116,9 +203,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "component": [Function],
             "exact": true,
             "path": "/about",
+            "render": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -129,9 +216,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "component": [Function],
             "exact": true,
             "path": "/portfolio",
+            "render": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -142,9 +229,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "component": [Function],
             "exact": true,
             "path": "/resume",
+            "render": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -155,9 +242,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "component": [Function],
             "exact": true,
             "path": "/contact",
+            "render": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -174,173 +261,6 @@ ShallowWrapper {
         },
       ],
       "type": "div",
-    },
-    "type": [Function],
-  },
-  Symbol(enzyme.__nodes__): Array [
-    Object {
-      "instance": null,
-      "key": undefined,
-      "nodeType": "class",
-      "props": Object {
-        "children": <div
-          className="App"
-        >
-          <Navbar />
-          <Route
-            component={[Function]}
-            exact={true}
-            path="/"
-          />
-          <Route
-            component={[Function]}
-            exact={true}
-            path="/about"
-          />
-          <Route
-            component={[Function]}
-            exact={true}
-            path="/portfolio"
-          />
-          <Route
-            component={[Function]}
-            exact={true}
-            path="/resume"
-          />
-          <Route
-            component={[Function]}
-            exact={true}
-            path="/contact"
-          />
-          <Footer />
-        </div>,
-      },
-      "ref": null,
-      "rendered": Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <Navbar />,
-            <Route
-              component={[Function]}
-              exact={true}
-              path="/"
-            />,
-            <Route
-              component={[Function]}
-              exact={true}
-              path="/about"
-            />,
-            <Route
-              component={[Function]}
-              exact={true}
-              path="/portfolio"
-            />,
-            <Route
-              component={[Function]}
-              exact={true}
-              path="/resume"
-            />,
-            <Route
-              component={[Function]}
-              exact={true}
-              path="/contact"
-            />,
-            <Footer />,
-          ],
-          "className": "App",
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {},
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "component": [Function],
-              "exact": true,
-              "path": "/",
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "component": [Function],
-              "exact": true,
-              "path": "/about",
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "component": [Function],
-              "exact": true,
-              "path": "/portfolio",
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "component": [Function],
-              "exact": true,
-              "path": "/resume",
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "component": [Function],
-              "exact": true,
-              "path": "/contact",
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {},
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-        ],
-        "type": "div",
-      },
-      "type": [Function],
     },
   ],
   Symbol(enzyme.__options__): Object {

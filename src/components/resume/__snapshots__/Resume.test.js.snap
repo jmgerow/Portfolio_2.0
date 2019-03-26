@@ -34,7 +34,7 @@ ShallowWrapper {
             className="col s12 center"
           >
             <embed
-              class="resume"
+              className="resume"
               src="Justin_M_Gerow_-_Resume_v2_web.pdf"
             />
           </div>
@@ -78,7 +78,7 @@ ShallowWrapper {
             className="col s12 center"
           >
             <embed
-              class="resume"
+              className="resume"
               src="Justin_M_Gerow_-_Resume_v2_web.pdf"
             />
           </div>,
@@ -91,7 +91,7 @@ ShallowWrapper {
           "nodeType": "host",
           "props": Object {
             "children": <embed
-              class="resume"
+              className="resume"
               src="Justin_M_Gerow_-_Resume_v2_web.pdf"
             />,
             "className": "col s12 center",
@@ -102,7 +102,7 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "class": "resume",
+              "className": "resume",
               "src": "Justin_M_Gerow_-_Resume_v2_web.pdf",
             },
             "ref": null,
@@ -138,7 +138,7 @@ ShallowWrapper {
               className="col s12 center"
             >
               <embed
-                class="resume"
+                className="resume"
                 src="Justin_M_Gerow_-_Resume_v2_web.pdf"
               />
             </div>
@@ -182,7 +182,7 @@ ShallowWrapper {
               className="col s12 center"
             >
               <embed
-                class="resume"
+                className="resume"
                 src="Justin_M_Gerow_-_Resume_v2_web.pdf"
               />
             </div>,
@@ -195,7 +195,7 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": <embed
-                class="resume"
+                className="resume"
                 src="Justin_M_Gerow_-_Resume_v2_web.pdf"
               />,
               "className": "col s12 center",
@@ -206,7 +206,7 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "class": "resume",
+                "className": "resume",
                 "src": "Justin_M_Gerow_-_Resume_v2_web.pdf",
               },
               "ref": null,

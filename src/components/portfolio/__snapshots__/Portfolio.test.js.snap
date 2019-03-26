@@ -40,6 +40,8 @@ ShallowWrapper {
             >
               <a
                 href="https://calsnap.herokuapp.com/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="CalSnap"
@@ -71,6 +73,8 @@ ShallowWrapper {
             >
               <a
                 href="https://wait-er-2018.herokuapp.com/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="waitER"
@@ -98,6 +102,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/Memory-Game/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Memory Game"
@@ -125,6 +131,8 @@ ShallowWrapper {
             >
               <a
                 href="https://boiling-savannah-42052.herokuapp.com/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Article Scraper"
@@ -152,6 +160,8 @@ ShallowWrapper {
             >
               <a
                 href="https://fierce-ridge-79914.herokuapp.com/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Burger App"
@@ -179,6 +189,8 @@ ShallowWrapper {
             >
               <a
                 href="https://thawing-oasis-43899.herokuapp.com/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Friend Finder"
@@ -206,6 +218,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/Word-Guess-Game/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Word Guess"
@@ -233,6 +247,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="SHFT"
@@ -260,6 +276,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/Giphy/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Gif Generator"
@@ -287,6 +305,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/Train_Schedule/"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Train"
@@ -314,6 +334,8 @@ ShallowWrapper {
             >
               <a
                 href="https://jmgerow.github.io/unit-4-game"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <img
                   alt="Crystal"
@@ -378,6 +400,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://calsnap.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="CalSnap"
@@ -409,6 +433,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://wait-er-2018.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="waitER"
@@ -436,6 +462,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Memory-Game/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Memory Game"
@@ -463,6 +491,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://boiling-savannah-42052.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Article Scraper"
@@ -490,6 +520,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://fierce-ridge-79914.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Burger App"
@@ -517,6 +549,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://thawing-oasis-43899.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Friend Finder"
@@ -544,6 +578,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Word-Guess-Game/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Word Guess"
@@ -571,6 +607,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="SHFT"
@@ -598,6 +636,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Giphy/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Gif Generator"
@@ -625,6 +665,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Train_Schedule/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Train"
@@ -652,6 +694,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/unit-4-game"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Crystal"
@@ -688,6 +732,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://calsnap.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="CalSnap"
@@ -718,6 +764,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://calsnap.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="CalSnap"
@@ -759,6 +807,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://calsnap.herokuapp.com/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -826,6 +876,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://wait-er-2018.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="waitER"
@@ -868,6 +920,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://wait-er-2018.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="waitER"
@@ -909,6 +963,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://wait-er-2018.herokuapp.com/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -972,6 +1028,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Memory-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Memory Game"
@@ -1002,6 +1060,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/Memory-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Memory Game"
@@ -1043,6 +1103,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/Memory-Game/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1106,6 +1168,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://boiling-savannah-42052.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Article Scraper"
@@ -1136,6 +1200,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://boiling-savannah-42052.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Article Scraper"
@@ -1177,6 +1243,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://boiling-savannah-42052.herokuapp.com/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1240,6 +1308,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://fierce-ridge-79914.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Burger App"
@@ -1270,6 +1340,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://fierce-ridge-79914.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Burger App"
@@ -1311,6 +1383,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://fierce-ridge-79914.herokuapp.com/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1374,6 +1448,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://thawing-oasis-43899.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Friend Finder"
@@ -1404,6 +1480,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://thawing-oasis-43899.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Friend Finder"
@@ -1445,6 +1523,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://thawing-oasis-43899.herokuapp.com/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1508,6 +1588,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Word-Guess-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Word Guess"
@@ -1538,6 +1620,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/Word-Guess-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Word Guess"
@@ -1579,6 +1663,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/Word-Guess-Game/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1642,6 +1728,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="SHFT"
@@ -1672,6 +1760,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="SHFT"
@@ -1713,6 +1803,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/Billion_Dollar_Project/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1776,6 +1868,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Giphy/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Gif Generator"
@@ -1806,6 +1900,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/Giphy/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Gif Generator"
@@ -1847,6 +1943,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/Giphy/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -1910,6 +2008,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Train_Schedule/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Train"
@@ -1940,6 +2040,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/Train_Schedule/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Train"
@@ -1981,6 +2083,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/Train_Schedule/",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -2044,6 +2148,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/unit-4-game"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Crystal"
@@ -2074,6 +2180,8 @@ ShallowWrapper {
                 "props": Object {
                   "children": <a
                     href="https://jmgerow.github.io/unit-4-game"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Crystal"
@@ -2115,6 +2223,8 @@ ShallowWrapper {
                       </div>,
                     ],
                     "href": "https://jmgerow.github.io/unit-4-game",
+                    "rel": "noopener noreferrer",
+                    "target": "_blank",
                   },
                   "ref": null,
                   "rendered": Array [
@@ -2200,6 +2310,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://calsnap.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="CalSnap"
@@ -2231,6 +2343,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://wait-er-2018.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="waitER"
@@ -2258,6 +2372,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Memory-Game/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Memory Game"
@@ -2285,6 +2401,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://boiling-savannah-42052.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Article Scraper"
@@ -2312,6 +2430,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://fierce-ridge-79914.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Burger App"
@@ -2339,6 +2459,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://thawing-oasis-43899.herokuapp.com/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Friend Finder"
@@ -2366,6 +2488,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Word-Guess-Game/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Word Guess"
@@ -2393,6 +2517,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="SHFT"
@@ -2420,6 +2546,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Giphy/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Gif Generator"
@@ -2447,6 +2575,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/Train_Schedule/"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Train"
@@ -2474,6 +2604,8 @@ ShallowWrapper {
               >
                 <a
                   href="https://jmgerow.github.io/unit-4-game"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <img
                     alt="Crystal"
@@ -2538,6 +2670,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://calsnap.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="CalSnap"
@@ -2569,6 +2703,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://wait-er-2018.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="waitER"
@@ -2596,6 +2732,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Memory-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Memory Game"
@@ -2623,6 +2761,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://boiling-savannah-42052.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Article Scraper"
@@ -2650,6 +2790,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://fierce-ridge-79914.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Burger App"
@@ -2677,6 +2819,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://thawing-oasis-43899.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Friend Finder"
@@ -2704,6 +2848,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Word-Guess-Game/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Word Guess"
@@ -2731,6 +2877,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="SHFT"
@@ -2758,6 +2906,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Giphy/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Gif Generator"
@@ -2785,6 +2935,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/Train_Schedule/"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Train"
@@ -2812,6 +2964,8 @@ ShallowWrapper {
                 >
                   <a
                     href="https://jmgerow.github.io/unit-4-game"
+                    rel="noopener noreferrer"
+                    target="_blank"
                   >
                     <img
                       alt="Crystal"
@@ -2848,6 +3002,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://calsnap.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="CalSnap"
@@ -2878,6 +3034,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://calsnap.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="CalSnap"
@@ -2919,6 +3077,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://calsnap.herokuapp.com/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -2986,6 +3146,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://wait-er-2018.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="waitER"
@@ -3028,6 +3190,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://wait-er-2018.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="waitER"
@@ -3069,6 +3233,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://wait-er-2018.herokuapp.com/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3132,6 +3298,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/Memory-Game/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Memory Game"
@@ -3162,6 +3330,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/Memory-Game/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Memory Game"
@@ -3203,6 +3373,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/Memory-Game/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3266,6 +3438,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://boiling-savannah-42052.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Article Scraper"
@@ -3296,6 +3470,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://boiling-savannah-42052.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Article Scraper"
@@ -3337,6 +3513,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://boiling-savannah-42052.herokuapp.com/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3400,6 +3578,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://fierce-ridge-79914.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Burger App"
@@ -3430,6 +3610,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://fierce-ridge-79914.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Burger App"
@@ -3471,6 +3653,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://fierce-ridge-79914.herokuapp.com/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3534,6 +3718,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://thawing-oasis-43899.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Friend Finder"
@@ -3564,6 +3750,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://thawing-oasis-43899.herokuapp.com/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Friend Finder"
@@ -3605,6 +3793,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://thawing-oasis-43899.herokuapp.com/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3668,6 +3858,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/Word-Guess-Game/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Word Guess"
@@ -3698,6 +3890,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/Word-Guess-Game/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Word Guess"
@@ -3739,6 +3933,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/Word-Guess-Game/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3802,6 +3998,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="SHFT"
@@ -3832,6 +4030,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/Billion_Dollar_Project/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="SHFT"
@@ -3873,6 +4073,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/Billion_Dollar_Project/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -3936,6 +4138,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/Giphy/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Gif Generator"
@@ -3966,6 +4170,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/Giphy/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Gif Generator"
@@ -4007,6 +4213,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/Giphy/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -4070,6 +4278,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/Train_Schedule/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Train"
@@ -4100,6 +4310,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/Train_Schedule/"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Train"
@@ -4141,6 +4353,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/Train_Schedule/",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
@@ -4204,6 +4418,8 @@ ShallowWrapper {
                   >
                     <a
                       href="https://jmgerow.github.io/unit-4-game"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Crystal"
@@ -4234,6 +4450,8 @@ ShallowWrapper {
                   "props": Object {
                     "children": <a
                       href="https://jmgerow.github.io/unit-4-game"
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
                       <img
                         alt="Crystal"
@@ -4275,6 +4493,8 @@ ShallowWrapper {
                         </div>,
                       ],
                       "href": "https://jmgerow.github.io/unit-4-game",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
                     },
                     "ref": null,
                     "rendered": Array [
