@@ -48,3 +48,8 @@
   font-size: 17px;
   width: 200px;
 }
+
+#portfolio-git-icon {
+  text-decoration: none;
+  color: #546e7a;
+}

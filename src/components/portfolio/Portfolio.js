@@ -24,7 +24,7 @@ class Portfolio extends Component {
                 </div>
                 <div className="row blue-grey-text text-darken-1" id="portfolio">
                     <div className="portfolio-item col s12 m6 xl4">
-                        CalSnap
+                        CalSnap <a href="https://github.com/cbo2/CalSnap" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://calsnap.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={calsnap} className="nav-images" alt="CalSnap"></img>
@@ -35,7 +35,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        wait<i>ER </i>App
+                        wait<i>ER </i>App <a href="https://github.com/jmgerow/WaitER" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://wait-er-2018.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={waiter} className="nav-images" alt="waitER"></img>
@@ -47,7 +47,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Memory Game
+                        Memory Game <a href="https://github.com/jmgerow/Memory-Game" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/Memory-Game/" target="_blank" rel="noopener noreferrer">
                                 <img src={brain} className="nav-images" alt="Memory Game"></img>
@@ -59,7 +59,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Article Scraper
+                        Article Scraper <a href="https://github.com/jmgerow/React-NYT" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://boiling-savannah-42052.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={article} className="nav-images" alt="Article Scraper"></img>
@@ -71,7 +71,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Burger App
+                        Burger App <a href="https://github.com/jmgerow/Eat-Da-Burger" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://fierce-ridge-79914.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={burger} className="nav-images" alt="Burger App"></img>
@@ -83,7 +83,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Friend Finder
+                        Friend Finder <a href="https://github.com/jmgerow/FriendFinder" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://thawing-oasis-43899.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <img src={friends} className="nav-images" alt="Friend Finder"></img>
@@ -95,7 +95,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Word Guess
+                        Word Guess <a href="https://github.com/jmgerow/Word-Guess-Game" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/Word-Guess-Game/" target="_blank" rel="noopener noreferrer">
                                 <img src={scrabble} className="nav-images" alt="Word Guess"></img>
@@ -106,7 +106,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        SHFT App
+                        SHFT App <a href="https://github.com/jmgerow/Billion_Dollar_Project" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/Billion_Dollar_Project/" target="_blank" rel="noopener noreferrer">
                                 <img src={shft} className="nav-images" alt="SHFT"></img>
@@ -118,7 +118,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Gif Generator
+                        Gif Generator <a href="https://github.com/jmgerow/Giphy" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/Giphy/" target="_blank" rel="noopener noreferrer">
                                 <img src={pyramid} className="nav-images" alt="Gif Generator"></img>
@@ -130,7 +130,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Train Schedule
+                        Train Schedule <a href="https://github.com/jmgerow/Train_Schedule" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/Train_Schedule/" target="_blank" rel="noopener noreferrer">
                                 <img src={train} className="nav-images" alt="Train"></img>
@@ -142,7 +142,7 @@ class Portfolio extends Component {
                         </div>
                     </div>
                     <div className="portfolio-item col s12 m6 xl4">
-                        Crystal Collector
+                        Crystal Collector <a href="https://github.com/jmgerow/unit-4-game" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-1x" id="portfolio-git-icon"></i></a>
                         <div className="image-background">
                             <a href="https://jmgerow.github.io/unit-4-game" target="_blank" rel="noopener noreferrer">
                                 <img src={crystal} className="nav-images" alt="Crystal"></img>
